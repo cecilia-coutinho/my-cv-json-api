@@ -1,0 +1,270 @@
+
+{
+    "basics": {
+      "name": "Cecilia Coutinho",
+      "label": "",
+      "picture": "",
+      "email": "cecicoutinho@gmail.com",
+      "phone": "+46 (079) 555-5555.",
+      "degree": "",
+      "website": "www.mywebsite.com",
+      "About": "Student of .NET and I am eager to continue developing myself in this field.",
+      "location": {
+        "postalCode": "12651",
+        "city": "Stockholm",
+        "country": "Sweden"
+      },
+      "profiles": [
+        {
+          "Linkedin": "/in/cecilia-coutinho",
+          "url": "www.linkedin.com/in/cecilia-coutinho"
+        },
+        {
+          "Github": "Cecilia-Coutinho",
+          "url": "https://github.com/Cecilia-Coutinho"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "The Gang Sweden",
+        "role": "Senior Project Manager",
+        "jobLocation" : "Stockholm, Sweden",
+        "website": "https://thegang.io",
+        "date": "2022",
+        "jobDescription": "Management of the flow of assets, information, and deliverables between internal teams, external teams, and project stakeholders. Solve impediments to ensure successful project delivery. Schedules, facilitate, and manage Sprint meetings"
+      },
+      {
+        "company": "W3 Americas / Tonic3",
+        "role": "Digital Project Manager",
+        "jobLocation" : "Buenos Aires, Argentina",
+        "website": "https://tonic3.com/",
+        "date": "2015-2020",
+        "jobDescription": "Management of the flow of assets, information, and deliverables between internal teams, external teams, and project stakeholders. Solve impediments to ensure successful project delivery. Schedules, facilitate, and manage projects' meetings. Planning and coordination of activities for development of <b>digital projects</b> (web development). Experience with Agile and traditional methodologies."
+      },
+      {
+        "company": "The Walt Disney Company Latam",
+        "role": "PSR - Player support representative",
+        "jobLocation" : "Buenos Aires, Argentina",
+        "website": "https://thewaltdisneycompany.com/",
+        "date": "2014-2015",
+        "jobDescription": "Game experience. Customer service and problem-solving. Responsible for the development and management of Club Penguin Social Media (Blog and Youtube in Portuguese). Development of ideas, content and community management."
+      },
+      {
+        "company": "PDG Vendas Corretora Imobiliária Ltda",
+        "role": "Backoffice",
+        "jobLocation" : "Salvador, Brazil",
+        "website": "https://www.pdg.com.br/",
+        "date": "2010-2013",
+        "jobDescription": "Customer service and problem-solving. Management of the administrative sector; staff management; issuance of payments; account analysis and reconciliation; preparation, receipt and review of signed contracts. Data analysis for credit rating (credit risk management); credit rating approval; issuance of electronic tax notes. Support and payments to suppliers."
+      },
+      {
+        "company": "Caixa Econômica Federal",
+        "role": "Intern",
+        "jobLocation" : "Salvador, Brazil",
+        "website": "https://www.caixa.gov.br/",
+        "date": "2008-2009",
+        "jobDescription": "Analysis of bill payments and benefits administration."
+      },
+      {
+        "company": "Banco do Nordeste",
+        "role": "Intern",
+        "jobLocation" : "Salvador, Brazil",
+        "website": "https://www.bnb.gov.br/",
+        "date": "2006-2008",
+        "jobDescription": "Customer service; data analysis for credit rating and risk analysis; accounts to receive; collection and reconciliation of accounts; support account portfolio (Individual, SMEs and large companies Ltda and S.A); general administrative tasks."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Chas Academy, Sweden",
+        "area": "Fullstack Developer .NET",
+        "startDate": "Sept 2022",
+        "endDate": "",
+        "gpa": "",
+        "courses": [
+          " IT Tech & Operations (v36-37 2022)", " IT Tech & Operations (v36-37 2022)"
+        ]
+      },
+      {
+        "institution": "Faculdade Católica de Ciências Econômicas da Bahia, Brazil",
+        "area": "Bachelor Degree in Economics",
+        "startDate": "",
+        "endDate": "",
+        "courses": [
+          ""
+        ]
+      }
+      
+    ],
+    "courses": [
+      {
+        "name": "Best Practices for Project Management Success",
+        "institution": "Rochester Institute of Technology (RITx)"
+      },
+      {
+        "name": "Project Management Life Cycle",
+        "institution": "Rochester Institute of Technology (RITx)"
+      },
+      {
+        "name": "International Project Management",
+        "institution": "Rochester Institute of Technology (RITx)"
+      },
+      {
+        "name": "Scrum Fundamentals",
+        "institution": "Scrumstudy"
+      },
+      {
+        "name": "SQL",
+        "institution": "Khan Academy"
+      }
+    ],
+    "coreSkills": [
+      {
+        "name": "Web development", 
+        "level": "",
+        "keywords": [
+          "HTML, CSS, JavaScript, C#, SQL"
+        ]
+      },
+      {
+        "name": "Project Management", 
+        "level": "",
+        "keywords": [
+          "Agile, Traditional"
+        ]
+      },
+      {
+        "name": "Decision-making", 
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Problem-solving", 
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Organized", 
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Customer-focused", 
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Adaptability", 
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Attention to details", 
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Fast learning", 
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      }
+    ],
+    "technicalSkills": [
+      {
+        "name": "HTML, CSS, JavaScript, SQL, C#,",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+    },
+    {
+      "name": "CMS",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+      {
+        "name": "Agile methodology",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Traditional methodology",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Jira / Confluence",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Github / Gitlab",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Trello",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "Google Tools (GD and GA)",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      },
+      {
+        "name": "MS Office",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Portuguese",
+        "fluency": "Native"
+      },
+      {
+        "language": "Spanish",
+        "fluency": "Bilingual Proficiency"
+      },
+      {
+        "language": "English",
+        "fluency": "Full Professional Proficiency"
+      },
+      {
+        "language": "Swedish",
+        "fluency": "Professional Working Proficiency"
+      }
+    ]
+  }
