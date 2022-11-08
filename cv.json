@@ -16,11 +16,11 @@
       },
       "profiles": [
         {
-          "Linkedin": "/in/cecilia-coutinho",
+          "linkedin": "/in/cecilia-coutinho",
           "url": "www.linkedin.com/in/cecilia-coutinho"
         },
         {
-          "Github": "Cecilia-Coutinho",
+          "github": "Cecilia-Coutinho",
           "url": "https://github.com/Cecilia-Coutinho"
         }
       ]
