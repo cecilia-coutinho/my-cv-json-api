@@ -186,7 +186,35 @@
     ],
     "technicalSkills": [
       {
-        "name": "HTML, CSS, JavaScript, SQL, C#,",
+        "name": "HTML",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+    },
+    {
+        "name": "CSS",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+    },
+            {
+        "name": "JavaScript",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+    },
+    {
+        "name": "SQL",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+    },
+    {
+        "name": "C#",
         "level": "",
         "keywords": [
           ""
