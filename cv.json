@@ -9,7 +9,7 @@
       "phone": "+46 (079) 555-5555.",
       "degree": "",
       "website": "https://cecilia-coutinho.github.io/",
-      "About": "As a Fullstack .NET developer, I am highly motivated to pursue a challenging opportunity that allows me to acquire new skills and expand my knowledge base, while also growing my career under the guidance and mentorship of a company committed to innovation and best practices. My primary area of interest lies in backend development, with a focus on C#, SQL, and API development. In addition, I also have knowledge of HTML, CSS, and JavaScript, and I am enthusiastic about using these technologies to create engaging and dynamic user interfaces.",
+      "about": "As a Fullstack .NET developer, I am highly motivated to pursue a challenging opportunity that allows me to acquire new skills and expand my knowledge base, while also growing my career under the guidance and mentorship of a company committed to innovation and best practices. My primary area of interest lies in backend development, with a focus on C#, SQL, and API development. In addition, I also have knowledge of HTML, CSS, and JavaScript, and I am enthusiastic about using these technologies to create engaging and dynamic user interfaces.",
       "location": {
         "postalCode": "12651",
         "city": "Stockholm",
