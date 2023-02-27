@@ -88,6 +88,18 @@
       ]
     },
     {
+      "institution": "Jensen Komvux, Sweden",
+      "area": "Svenska som Andra Språk 1, 2, 3",
+      "startDate": "Oct 2021",
+      "endDate": "Feb 2022",
+      "gpa": "",
+      "courses": [
+        " Svenska som Andra Språk 1",
+        " Svenska som Andra Språk 2",
+        " Svenska som Andra Språk 3"
+      ]
+    },
+    {
       "institution": "Faculdade Católica de Ciências Econômicas da Bahia, Brazil",
       "area": "Bachelor Degree in Economics",
       "startDate": "",
@@ -96,6 +108,7 @@
         ""
       ]
     }
+
   ],
   "courses": [
     {
