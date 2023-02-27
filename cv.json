@@ -2,12 +2,18 @@
 {
     "basics": {
       "name": "Cecilia Coutinho",
-      "label": "",
+      "label1": "Digital Project Manager",
+      "label2": "Fullstack Developer .NET",
       "picture": "",
       "email": "cecicoutinho@gmail.com",
       "degree": "",
+<<<<<<< HEAD
       "website": "https://cecilia-coutinho.github.io/",
       "About": "As a Fullstack .NET developer, I am highly motivated to pursue a challenging opportunity that allows me to acquire new skills and expand my knowledge base, while also growing my career under the guidance and mentorship of a company committed to innovation and best practices. My primary area of interest lies in backend development, with a focus on C#, SQL, and API development. In addition, I also have knowledge of HTML, CSS, and JavaScript, and I am enthusiastic about using these technologies to create engaging and dynamic user interfaces.",
+=======
+      "website": "www.mywebsite.com",
+      "about": "Student of .NET and I am eager to continue developing myself in this field.",
+>>>>>>> 2391bd4086026e9d44d4beb9d255d7e61b5ef1bb
       "location": {
         "postalCode": "12651",
         "city": "Stockholm",
@@ -15,11 +21,11 @@
       },
       "profiles": [
         {
-          "Linkedin": "/in/cecilia-coutinho",
+          "linkedin": "/in/cecilia-coutinho",
           "url": "www.linkedin.com/in/cecilia-coutinho"
         },
         {
-          "Github": "Cecilia-Coutinho",
+          "github": "Cecilia-Coutinho",
           "url": "https://github.com/Cecilia-Coutinho"
         }
       ]
@@ -47,7 +53,11 @@
         "jobLocation" : "Buenos Aires, Argentina",
         "website": "https://thewaltdisneycompany.com/",
         "date": "2014-2015",
+<<<<<<< HEAD
         "jobDescription": "Gaming, customer service, and online moderation; Management of social media presence for Club Penguin in Portuguese (blog and YT channel); Development of ideas, content and community management."
+=======
+        "jobDescription": "Game experience. Customer service and problem-solving. Online moderator. Responsible for developing and managing Club Penguin Social Media (Blog and Youtube in Portuguese). Development of ideas, content and community management."
+>>>>>>> 2391bd4086026e9d44d4beb9d255d7e61b5ef1bb
       },
       {
         "company": "PDG Vendas Corretora Imobiliária Ltda",
@@ -193,7 +203,35 @@
     ],
     "technicalSkills": [
       {
-        "name": "HTML, CSS, JavaScript, SQL, C#,",
+        "name": "HTML",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+    },
+    {
+        "name": "CSS",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+    },
+            {
+        "name": "JavaScript",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+    },
+    {
+        "name": "SQL",
+        "level": "",
+        "keywords": [
+          ""
+        ]
+    },
+    {
+        "name": "C#",
         "level": "",
         "keywords": [
           ""
