@@ -96,7 +96,6 @@
         ""
       ]
     }
-
   ],
   "courses": [
     {
@@ -132,14 +131,28 @@
       ]
     },
     {
-      "name": "Decision-making",
+      "name": "Problem-solving",
       "level": "",
       "keywords": [
         ""
       ]
     },
     {
-      "name": "Problem-solving",
+      "name": "Fast learning",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Attention to details",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Decision-making",
       "level": "",
       "keywords": [
         ""
@@ -165,23 +178,24 @@
       "keywords": [
         ""
       ]
-    },
-    {
-      "name": "Attention to details",
-      "level": "",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "Fast learning",
-      "level": "",
-      "keywords": [
-        ""
-      ]
     }
   ],
   "technicalSkills": [
+    
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
     {
       "name": "HTML",
       "level": "",
@@ -205,13 +219,6 @@
     },
     {
       "name": "SQL",
-      "level": "",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "C#",
       "level": "",
       "keywords": [
         ""
@@ -260,7 +267,7 @@
       ]
     },
     {
-      "name": "Google Tools (GD and GA)",
+      "name": "GD Products",
       "level": "",
       "keywords": [
         ""
