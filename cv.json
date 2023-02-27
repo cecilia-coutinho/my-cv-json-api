@@ -5,10 +5,9 @@
       "label": "",
       "picture": "",
       "email": "cecicoutinho@gmail.com",
-      "phone": "+46 (079) 555-5555.",
       "degree": "",
-      "website": "www.mywebsite.com",
-      "About": "Student of .NET and I am eager to continue developing myself in this field.",
+      "website": "https://cecilia-coutinho.github.io/",
+      "About": "As a Fullstack .NET developer, I am highly motivated to pursue a challenging opportunity that allows me to acquire new skills and expand my knowledge base, while also growing my career under the guidance and mentorship of a company committed to innovation and best practices. My primary area of interest lies in backend development, with a focus on C#, SQL, and API development. In addition, I also have knowledge of HTML, CSS, and JavaScript, and I am enthusiastic about using these technologies to create engaging and dynamic user interfaces.",
       "location": {
         "postalCode": "12651",
         "city": "Stockholm",
@@ -31,8 +30,8 @@
         "role": "Senior Project Manager",
         "jobLocation" : "Stockholm, Sweden",
         "website": "https://thegang.io",
-        "date": "2022",
-        "jobDescription": "Management of the flow of assets, information, and deliverables between internal teams, external teams, and project stakeholders. Solve impediments to ensure successful project delivery. Schedules, facilitate, and manage Sprint meetings"
+        "date": "May-Sept 2022",
+        "jobDescription": "Agile methodologies and Sprints management; Project planning, risk management, and project scheduling and budgeting; Collaborative problem-solving and team leadership to ensure successful project completion; Management of asset, information, and deliverable flow between internal teams, external teams, and project stakeholders."
       },
       {
         "company": "W3 Americas / Tonic3",
@@ -40,7 +39,7 @@
         "jobLocation" : "Buenos Aires, Argentina",
         "website": "https://tonic3.com/",
         "date": "2015-2020",
-        "jobDescription": "Management of the flow of assets, information, and deliverables between internal teams, external teams, and project stakeholders. Solve impediments to ensure successful project delivery. Schedules, facilitate, and manage projects' meetings. Planning and coordination of activities for development of <b>digital projects</b> (web development). Experience with Agile and traditional methodologies."
+        "jobDescription": "Management of activities for the development of digital projects, specifically web development; Agile and Traditional methodologies; Project planning, risk management, and project scheduling and budgeting; Collaborative problem-solving and team leadership to ensure successful project completion; Management of asset, information, and deliverable flow between internal teams, external teams, and project stakeholders."
       },
       {
         "company": "The Walt Disney Company Latam",
@@ -48,7 +47,7 @@
         "jobLocation" : "Buenos Aires, Argentina",
         "website": "https://thewaltdisneycompany.com/",
         "date": "2014-2015",
-        "jobDescription": "Game experience. Customer service and problem-solving. Responsible for the development and management of Club Penguin Social Media (Blog and Youtube in Portuguese). Development of ideas, content and community management."
+        "jobDescription": "Gaming, customer service, and online moderation; Management of social media presence for Club Penguin in Portuguese (blog and YT channel); Development of ideas, content and community management."
       },
       {
         "company": "PDG Vendas Corretora Imobiliária Ltda",
@@ -56,7 +55,7 @@
         "jobLocation" : "Salvador, Brazil",
         "website": "https://www.pdg.com.br/",
         "date": "2010-2013",
-        "jobDescription": "Customer service and problem-solving. Management of the administrative sector; staff management; issuance of payments; account analysis and reconciliation; preparation, receipt and review of signed contracts. Data analysis for credit rating (credit risk management); credit rating approval; issuance of electronic tax notes. Support and payments to suppliers."
+        "jobDescription": "Customer service and problem-solving; Management of the administrative sector, including staff management, payments, account analysis, and contract review; Data analysis for credit rating and credit risk management, including credit rating approval and electronic tax note issuance; Support and payments to suppliers."
       },
       {
         "company": "Caixa Econômica Federal",
@@ -87,10 +86,22 @@
         ]
       },
       {
+        "institution": "Jensen Komvux, Sweden",
+        "area": "Svenska som Andra Språk 1, 2, 3",
+        "startDate": "Oct 2021",
+        "endDate": "Feb 2022",
+        "gpa": "",
+        "courses": [
+          " Svenska som Andra Språk 1",
+          " Svenska som Andra Språk 2",
+          " Svenska som Andra Språk 3"
+        ]
+      },
+      {
         "institution": "Faculdade Católica de Ciências Econômicas da Bahia, Brazil",
         "area": "Bachelor Degree in Economics",
         "startDate": "",
-        "endDate": "",
+        "endDate": "Nov 2012",
         "courses": [
           ""
         ]
@@ -113,10 +124,6 @@
       {
         "name": "Scrum Fundamentals",
         "institution": "Scrumstudy"
-      },
-      {
-        "name": "SQL",
-        "institution": "Khan Academy"
       }
     ],
     "coreSkills": [
