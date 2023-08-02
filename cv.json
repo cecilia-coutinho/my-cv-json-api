@@ -2,13 +2,13 @@
   "basics": {
     "name": "Cecilia Coutinho",
     "label1": "Digital Project Manager",
-    "label2": "Fullstack Developer .NET",
+    "label2": "Fullstack .NET Developer",
     "picture": "",
     "email": "cecicoutinho@gmail.com",
     "phone": "+46 (079) 555-5555.",
     "degree": "",
     "website": "https://cecilia-coutinho.github.io/",
-    "about": "As a Fullstack .NET developer, I am highly motivated to pursue a challenging opportunity that allows me to acquire new skills and expand my knowledge base, while also growing my career under the guidance and mentorship of a company committed to innovation and best practices. My primary area of interest lies in backend development, with a focus on C#, SQL, and API development. In addition, I also have knowledge of HTML, CSS, and JavaScript, and I am enthusiastic about using these technologies to create engaging and dynamic user interfaces.",
+    "about": "As a Fullstack .NET Developer, I am highly motivated to pursue a challenging opportunity that allows me to acquire new skills and expand my knowledge base, while also growing my career under the guidance and mentorship of a company committed to innovation and best practices. My primary area of interest lies in backend development, with a focus on C#, SQL, and API development. In addition, I also have knowledge of HTML, CSS, and JavaScript, and I am enthusiastic about using these technologies as well.",
     "location": {
       "postalCode": "12651",
       "city": "Stockholm",
@@ -32,7 +32,12 @@
       "jobLocation": "Stockholm, Sweden",
       "website": "https://thegang.io",
       "date": "May-Sept 2022",
-      "jobDescription": "Agile methodologies and Sprints management; Project planning, risk management, and project scheduling and budgeting; Collaborative problem-solving and team leadership to ensure successful project completion; Management of asset, information, and deliverable flow between internal teams, external teams, and project stakeholders."
+      "jobDescription": [
+        "Agile methodologies and Sprints management.",
+        "Project planning, risk management, and project scheduling and budgeting.",
+        "Collaborative problem-solving and team leadership to ensure successful project completion.",
+        "Management of asset, information, and deliverable flow between internal teams, external teams, and project stakeholders."
+      ]
     },
     {
       "company": "W3 Americas / Tonic3",
@@ -40,7 +45,13 @@
       "jobLocation": "Buenos Aires, Argentina",
       "website": "https://tonic3.com/",
       "date": "2015-2020",
-      "jobDescription": "Management of activities for the development of digital projects, specifically web development; Agile and Traditional methodologies; Project planning, risk management, and project scheduling and budgeting; Collaborative problem-solving and team leadership to ensure successful project completion; Management of asset, information, and deliverable flow between internal teams, external teams, and project stakeholders."
+      "jobDescription": [
+        "Management of activities for the development of digital projects, specifically web development.",
+        "Agile and Traditional methodologies.",
+        "Project planning, risk management, and project scheduling and budgeting.",
+        "Collaborative problem-solving and team leadership to ensure successful project completion.",
+        "Management of asset, information, and deliverable flow between internal teams, external teams, and project stakeholders."
+      ]
     },
     {
       "company": "The Walt Disney Company Latam",
@@ -78,13 +89,46 @@
   "education": [
     {
       "institution": "Chas Academy, Sweden",
-      "area": "Fullstack Developer .NET",
+      "area": "Fullstack .NET Developer",
       "startDate": "Sept 2022",
-      "endDate": "",
+      "endDate": "May 2024",
       "gpa": "",
       "courses": [
         " IT Tech & Operations (v36-37 2022)",
         " IT Tech & Operations (v36-37 2022)"
+      ]
+    },
+    {
+      "institution": "Jensen Komvux, Sweden",
+      "area": "Svenska som Andra Språk 1, 2, 3",
+      "startDate": "Oct 2021",
+      "endDate": "Feb 2022",
+      "gpa": "",
+      "courses": [
+        " Svenska som Andra Språk 1",
+        " Svenska som Andra Språk 2",
+        " Svenska som Andra Språk 3"
+      ]
+    },
+    {
+      "institution": "Jensen Komvux, Sweden",
+      "area": "Svenska som Andra Språk grundläggande, delkurs 4:4",
+      "startDate": "Aug 2021",
+      "endDate": "Oct 2021",
+      "gpa": "",
+      "courses": [
+        " Svenska som Andra Språk grundläggande, delkurs 4:4"
+      ]
+    },
+    {
+      "institution": "Jensen Komvux, Sweden",
+      "area": "Svenska för Invandrare",
+      "startDate": "May 2021",
+      "endDate": "Jul 2021",
+      "gpa": "",
+      "courses": [
+        " Svenska för Invandrare kurs D studieväg 3",
+        " Svenska för Invandrare kurs C studieväg 3"
       ]
     },
     {
@@ -117,21 +161,7 @@
   ],
   "coreSkills": [
     {
-      "name": "Web development",
-      "level": "",
-      "keywords": [
-        "HTML, CSS, JavaScript, C#, SQL"
-      ]
-    },
-    {
-      "name": "Project Management",
-      "level": "",
-      "keywords": [
-        "Agile, Traditional"
-      ]
-    },
-    {
-      "name": "Problem-solving",
+      "name": "Collaborative",
       "level": "",
       "keywords": [
         ""
@@ -145,28 +175,7 @@
       ]
     },
     {
-      "name": "Attention to details",
-      "level": "",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "Decision-making",
-      "level": "",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "Organized",
-      "level": "",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "Customer-focused",
+      "name": "Resilient",
       "level": "",
       "keywords": [
         ""
@@ -178,10 +187,24 @@
       "keywords": [
         ""
       ]
+    },
+    {
+      "name": "Attention to detail",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Organized",
+      "level": "",
+      "keywords": [
+        ""
+      ]
     }
   ],
   "technicalSkills": [
-    
+
     {
       "name": ".NET",
       "level": "",
@@ -211,14 +234,28 @@
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "JavaScript (Vanilla, React)",
       "level": "",
       "keywords": [
         ""
       ]
     },
     {
-      "name": "SQL",
+      "name": "SQL (Dapper, EF, PostgreSQL, MS SQL Server)",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "RESTful API (ASP.NET)",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "CI/CD Pipeline",
       "level": "",
       "keywords": [
         ""
