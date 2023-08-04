@@ -33,9 +33,9 @@
       "website": "https://thegang.io",
       "date": "May-Sept 2022",
       "jobDescription": [
-        "Agile methodologies and Sprints management.",
-        "Project planning, risk management, and project scheduling and budgeting.",
-        "Collaborative problem-solving and team leadership to ensure successful project completion.",
+        "Agile methodologies and Sprints management;",
+        "Project planning, risk management, and project scheduling and budgeting;",
+        "Collaborative problem-solving and team leadership to ensure successful project completion;",
         "Management of asset, information, and deliverable flow between internal teams, external teams, and project stakeholders."
       ]
     },
@@ -46,10 +46,10 @@
       "website": "https://tonic3.com/",
       "date": "2015-2020",
       "jobDescription": [
-        "Management of activities for the development of digital projects, specifically web development.",
-        "Agile and Traditional methodologies.",
-        "Project planning, risk management, and project scheduling and budgeting.",
-        "Collaborative problem-solving and team leadership to ensure successful project completion.",
+        "Management of activities for the development of digital projects, specifically web development;",
+        "Agile and Traditional methodologies;",
+        "Project planning, risk management, and project scheduling and budgeting;",
+        "Collaborative problem-solving and team leadership to ensure successful project completion;",
         "Management of asset, information, and deliverable flow between internal teams, external teams, and project stakeholders."
       ]
     },
@@ -59,7 +59,11 @@
       "jobLocation": "Buenos Aires, Argentina",
       "website": "https://thewaltdisneycompany.com/",
       "date": "2014-2015",
-      "jobDescription": "Gaming, customer service, and online moderation; Management of social media presence for Club Penguin in Portuguese (blog and YT channel); Development of ideas, content and community management."
+      "jobDescription": [
+        "Gaming, customer service, and online moderation;",
+        "Management of social media presence for Club Penguin in Portuguese (blog and YT channel);",
+        "Development of ideas, content and community management."
+      ]
     },
     {
       "company": "PDG Vendas Corretora Imobiliária Ltda",
