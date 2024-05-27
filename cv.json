@@ -6,26 +6,44 @@
     "picture": "",
     "email": "cecicoutinho@gmail.com",
     "phone": "+46 (079) 555-5555.",
-    "degree": "",
     "website": "https://cecilia-coutinho.github.io/",
-    "about": "As a Fullstack .NET Developer, I am highly motivated to pursue a challenging opportunity that allows me to acquire new skills and expand my knowledge base, while also growing my career under the guidance and mentorship of a company committed to innovation and best practices. My primary area of interest lies in backend development, with a focus on C#, SQL, and API development. In addition, I also have knowledge of HTML, CSS, and JavaScript, and I am enthusiastic about using these technologies as well.",
+    "about": "I am seeking a challenging opportunity to acquire new skills, expand my knowledge, and advance my career. I'm a FullStack Developer with a primary interest in backend development.",
     "location": {
       "postalCode": "12651",
       "city": "Stockholm",
       "country": "Sweden"
     },
-    "profiles": [
-      {
-        "linkedin": "/in/cecilia-coutinho",
-        "url": "www.linkedin.com/in/cecilia-coutinho"
-      },
-      {
-        "github": "Cecilia-Coutinho",
-        "url": "https://github.com/Cecilia-Coutinho"
-      }
+    "degree": [
+      "FullStack .NET Developer",
+      "Bachelor's Degree in Economics"
     ]
   },
+  "profiles": [
+  {
+    "linkedin": "/in/cecilia-coutinho",
+    "url": "www.linkedin.com/in/cecilia-coutinho"
+  },
+  {
+    "github": "Cecilia-Coutinho",
+    "url": "https://github.com/Cecilia-Coutinho"
+  }
+]
+  },
   "work": [
+        {
+      "company": "Sweet Systems",
+      "role": "Software Developer",
+      "jobLocation": "Stockholm, Sweden",
+      "website": "https://sweetsystems.se/",
+      "date": "2023-2024",
+      "jobDescription": [
+        ".NET Core for web development and management of SQL Server databases with SSMS for CRM and data automation;",
+        "Development of XML custom templates for configuration imports;",
+        "Performance of checks on frontend and SQL for accurate data and system efficiency, contributing to data management and integration;",
+        "Git for version control alongside Azure Pipelines for CI/CD;",
+        "Azure DevOps and  Scrum framework."
+      ]
+    },
     {
       "company": "The Gang Sweden",
       "role": "Senior Project Manager",
@@ -75,7 +93,7 @@
     },
     {
       "company": "Caixa Econômica Federal",
-      "role": "Intern",
+      "role": "Internship",
       "jobLocation": "Salvador, Brazil",
       "website": "https://www.caixa.gov.br/",
       "date": "2008-2009",
@@ -83,7 +101,7 @@
     },
     {
       "company": "Banco do Nordeste",
-      "role": "Intern",
+      "role": "Internship",
       "jobLocation": "Salvador, Brazil",
       "website": "https://www.bnb.gov.br/",
       "date": "2006-2008",
@@ -98,8 +116,15 @@
       "endDate": "May 2024",
       "gpa": "",
       "courses": [
-        " IT Tech & Operations (v36-37 2022)",
-        " IT Tech & Operations (v36-37 2022)"
+        "IT Tech & Operations (week36-37 2022)",
+        "HTML, CSS & JavaScript (week38-45 2022)",
+        "Programmering & C# (week46 2022 - week8 2023)",
+        "Projektmetodik & agila metoder (week8 2023)",
+        "Backendutveckling & Databaser (week9-16 2023)",
+        "Fullstackprojekt med metodik (week17-25 2023),",
+        "Avancerad fullstackutveckling (week34-48 2023)",
+        "LIA (week49 2023 - week16 2024)",
+        "Examensarbete (week16-22 2024)"
       ]
     },
     {
@@ -210,12 +235,33 @@
   "technicalSkills": [
 
     {
-      "name": ".NET",
+      "name": ".NET Core",
       "level": "",
       "keywords": [
         ""
       ]
     },
+    {
+      "name": ".NET 6",
+      "level": "",
+      "keywords": [
+        ""
+  ]
+},
+    {
+      "name": ".NET 7",
+      "level": "",
+      "keywords": [
+    ""
+  ]
+},
+    {
+      "name": ".NET 8",
+      "level": "",
+      "keywords": [
+        ""
+  ]
+},
     {
       "name": "C#",
       "level": "",
@@ -238,45 +284,63 @@
       ]
     },
     {
-      "name": "JavaScript (Vanilla, React)",
+      "name": "JavaScript",
       "level": "",
       "keywords": [
         ""
       ]
     },
     {
-      "name": "SQL (Dapper, EF, PostgreSQL, MS SQL Server)",
+      "name": "React",
       "level": "",
       "keywords": [
         ""
       ]
     },
     {
-      "name": "RESTful API (ASP.NET)",
+    {
+      "name": "SQL",
       "level": "",
       "keywords": [
-        ""
+        "Dapper", 
+        "Entity Framework (EF)", 
+        "PostgreSQL", 
+        "MS SQL Server"
+      ]
+    },
+    {
+      "name": "ASP.NET",
+      "level": "",
+      "keywords": [
+        "Web API", "Insomnia", "Postman", "Swagger"
       ]
     },
     {
       "name": "CI/CD Pipeline",
       "level": "",
       "keywords": [
-        ""
+        "Azure", "GitHub Actions"
       ]
     },
     {
-      "name": "CMS",
+      "name": "Content Management Systems (CMS)",
       "level": "",
       "keywords": [
-        ""
+        "Drupal", 
+        "WordPress", 
+        "Moodle", 
+        "Episerver"
       ]
     },
     {
       "name": "Agile methodology",
       "level": "",
       "keywords": [
-        ""
+        "Scrum", 
+        "Kanban",
+        "DevOps",
+        "Design Thinking",
+        "Scrumban"
       ]
     },
     {
@@ -287,14 +351,35 @@
       ]
     },
     {
-      "name": "Jira / Confluence",
+      "name": "Jira",
       "level": "",
       "keywords": [
         ""
       ]
     },
     {
-      "name": "Github / Gitlab",
+    "name": "Confluence",
+    "level": "",
+    "keywords": [
+      ""
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+    "name": "Github",
+    "level": "",
+    "keywords": [
+      ""
+    ]
+    },
+    {
+      "name": "Gitlab",
       "level": "",
       "keywords": [
         ""
@@ -308,14 +393,14 @@
       ]
     },
     {
-      "name": "GD Products",
+      "name": "Figma",
       "level": "",
       "keywords": [
         ""
       ]
     },
     {
-      "name": "MS Office",
+      "name": "Photoshop",
       "level": "",
       "keywords": [
         ""
